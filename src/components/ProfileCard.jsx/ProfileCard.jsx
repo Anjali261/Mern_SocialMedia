@@ -1,5 +1,5 @@
 import React from "react";
-import Cover from "../../img/cover.jpg";
+import Cover from "../../img/one.jpeg";
 import Profile from "../../img/profileImg.jpg";
 import "./ProfileCard.css";
 
@@ -13,8 +13,8 @@ const ProfileCard = () => {
       </div>
 
       <div className="ProfileName">
-        <span>Zendaya MJ</span>
-        <span>Senior UI/UX Designer</span>
+        <span>Anjali Kumari</span>
+        <span>Full Stack Developer</span>
       </div>
 
       <div className="followStatus">
